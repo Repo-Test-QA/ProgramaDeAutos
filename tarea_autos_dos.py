@@ -33,6 +33,9 @@ def calcular_precio(marca,puertas,color,ventas):
 # Agregando un print para que subamos una 3era versión del archivo de autos.
 print("================ Programa de ventas de autos ========================")
 
+# Agregando por 2da ves.
+print('Somos vendedores de Ford, Chevrolet y Fiat')
+
 # A.-
 mas_clientes ='si'
 # ventas es una lista, colección de ventas que se han generado.
