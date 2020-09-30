@@ -36,6 +36,9 @@ print("================ Programa de ventas de autos ========================")
 # Agregando por 2da ves.
 print('Somos vendedores de Ford, Chevrolet y Fiat')
 
+# Ya estando en el branch (rama) 1234, realizamos un cambio.
+print("Somos líderes del mercado desde 1940")
+
 # A.-
 mas_clientes ='si'
 # ventas es una lista, colección de ventas que se han generado.
